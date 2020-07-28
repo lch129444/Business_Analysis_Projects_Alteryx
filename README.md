@@ -47,12 +47,15 @@ This project contains several projects using Alteryx,Tabluea, and Excel to do bu
 * Apply the best model to predict future production.  
 * Use Tableau to demonstrate the historical data, existing stores forecasts and new stores forecasts.  
 
+### Files listed
+* PDF reports or the Projects
+* .ymxd files need Alteryx to open
 
 ### Software used
 * Alteryx
 * Excel
 * Atom
-- Tableau
+* Tableau
 
 ### Credits
 * Those projects are assignments of [Udacity](https://www.udacity.com/) [Business Analyst Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd008/parts/559898fe-b35d-4bb8-a9ad-eb08fb73ef50).
